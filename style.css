@@ -117,6 +117,8 @@ body {
   height: 100%;
   font-size: 1.6rem;
   text-align: center;
+  background-color: rgba(0, 0, 0, 0.733);
+  color: rgba(199, 197, 197, 0.932);
 }
 
 .main-title {
